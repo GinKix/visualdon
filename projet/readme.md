@@ -12,3 +12,5 @@ https://data.culture.gouv.fr/explore/dataset/frequentation-dans-les-salles-de-ci
 
 Les données étant assez nombreuses pour fournir plusieurs graphiques et instructives concernant le cinéma en France au fil des ans, ça m'a semblé intéressant à approfondir.
 Concernant l'affichage des données j'ai choisi de le faire en utilisant la librairie Billboard car je la trouvais plus simple à appréhender étant donné que je faisais ce projet seul.
+
+Le site est hébergé à l'adresse: http://visualdon-kilian.surge.sh/
